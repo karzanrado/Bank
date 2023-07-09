@@ -1,0 +1,12 @@
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\bin\Debug\BankAppointment.exe.config
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\bin\Debug\BankAppointment.exe
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\bin\Debug\BankAppointment.pdb
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.csproj.AssemblyReference.cache
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.csproj.SuggestedBindingRedirects.cache
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.FrmManagementTruns.resources
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.FrmTakingTurns.resources
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.Properties.Resources.resources
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.csproj.GenerateResource.cache
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.csproj.CoreCompileInputs.cache
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.exe
+D:\WsveProjectBackup\برنامه نویسی\Project\DataStructures\BankAppointment\BankAppointment\obj\Debug\BankAppointment.pdb
